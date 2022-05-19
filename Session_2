@@ -1,0 +1,50 @@
+```
+Q1: What does HGVS stands for?
+You answered: Human Genome Variation Society
+Q2: Which of the following is the correct way to represent a NM ID according to HGVS format?
+You answered: NM_004007.1:c.121C>T
+Q3: Mention the NC ID for the given NM ID for hg19 build of human genome ( hint: use mutalyser) ? NM_014874.3:c.171T>C
+You answered: NC_000001.10:g.12049396T>C
+Q4: Mention the NC ID for the given NM ID for hg38 build of human genome (hint: use mutalyser) ? NM_014874.4:c.171T>C
+You answered: NC ID is not available for version 4
+Q5: What does GRCh 38 stands for?
+You answered: Genome Reference Consortium Human Build 38
+Q6: A variant is present in the genome of an individual at the given positions as shown in the figure. Which of the following option depicts the correct nomenclature of the variant according to the HGVS at different levels.
+You answered: Level A- NC_000001.10:g.12052698A>T, Level B- NG_007945.1:g.17461A>T, Level C- NM_014874.3:c.262A>T, Level D- NP_055689.1:p.Ile88Phe
+Q7: At 743 position on a transcript of a gene, two guanine nucleotides (GG) are deleted, and two nucleotides T and C are inserted, which of the following are correct ways to represent such a variant according to HGVS format?
+You answered: NM_000218.2:c.743_744delinsTC
+Q8: What does the given NC ID depict: NC_000009.11:g.136219563_136219564insCAGG
+You answered: There is an insertion of CAGG between 136219563 and 136219564 position on the chromosome
+Q9: NM_000018.3:c.1680T>A, does this ID depict a variant with correct syntax? (Hint: use mutalyser)
+You answered: Yes
+Q10: A single nucleotide substitution (C has been replaced by A) has taken place in a gene, but the protein sequence is not altered. What is the type of such a variant called as?
+You answered: Synonymous variant
+Q11: Which type of mutation is depicted in the figure below
+You answered: Variant 1 depicts non sense mutation and Variant 2 depicts frameshift mutation
+Q12: Which of the following tool of mutalyser allows us to load our own reference sequence file?
+You answered: Reference File Loader
+Q13: Select the type of the variant depicted by the given NP ID: NP_001121132.1:p.His174=
+You answered: Synonymous variant
+Q14: What is the mechanism by which a single gene can give rise to multiple transcripts?
+You answered: Alternative splicing
+Q15: What does the given variant signify: c.1679-6G>A
+You answered: It is a G to A nucleotide change present in intron at 6 nucleotides upstream of position 1679
+Q16: Suppose that in a publication, only dbSNP ID (rsID) and human genome build information is mentioned for a variant. Will it be possible for us to fetch the NC,NM,NP and NG IDs for the variant?
+You answered: Yes, we can fetch all the NC, NG, NM and NP IDs
+Q17: What does VCF stands for?
+You answered: Variant Call Format
+Q18: Which of the following information is not provided for a variant in a VCF file?
+You answered: Clinical significance of the variant
+Q19: If we want to depict an amino acid change at position 67 in a protein, what is correct way to represent according to HGVS nomenclature?
+You answered: NP_00023.2:p.Thr67Ser
+Q20: If we have a list of 50 variants with NM IDs, and we want to fetch NC ID for all of them, which feature of mutalyser could be utilised to perform such a task in one go?
+You answered: Batch jobs
+Q21: If a variant is depicted as c.*93C>T, then where it is present within a gene according to HGVS format?
+You answered: In 3'UTR of the gene
+Q22: If a variant is depicted as p.Ser57*, then which type of variant is it?
+You answered: Non-sense
+Q23: Suppose there is a deletion of 5 coding DNA nucleotides 234 to 238 position, which of the following is the correct way to depict it according to HGVS format?
+You answered: c.234_238del
+Q24: When a variant could be described as both an insertion or a duplication, then according to HGVS, which will be the prioritised nomenclature?
+You answered: Duplication
+```
